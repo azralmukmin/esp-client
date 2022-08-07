@@ -1,7 +1,7 @@
 # esp-client
 Simple ESP module as client connect reliable Wi-Fi connection  
 
-# test on: 
+# Testing on: 
 Hardware: 
 LOLIN(WEMOS) D1 mini Pro
 
