@@ -1,5 +1,5 @@
 # esp-client
-Simple ESP module as client connect reliable Wi-Fi connection  
+Setup esp8266 module as client for reliable Wi-Fi connection  
 
 # Testing on: 
 Hardware: 
